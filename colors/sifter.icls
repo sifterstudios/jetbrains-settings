@@ -1,16 +1,16 @@
-<scheme name="_@user_nightfall" version="142" parent_scheme="Darcula">
+<scheme name="sifter" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-10-02T19:58:04</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-10-02T20:08:57</property>
-    <property name="originalScheme">nightfall</property>
+    <property name="created">2022-10-02T20:06:28</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2022.2.3.0.0</property>
+    <property name="modified">2022-10-02T20:08:02</property>
+    <property name="originalScheme">sifter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
+    <option name="EDITOR_FONT_NAME" value="Dank Mono" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Regular" />
@@ -38,19 +38,30 @@
     <option name="DOC_COMMENT_GUIDE" value="444a73" />
     <option name="DOC_COMMENT_LINK" value="34d3fb" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="a6cc70" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="787878" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6272a4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="6272a4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff5555" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff5555" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff5555" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="ffb86c" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="f1fa8c" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="50fa7b" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_MERGED" value="bd93f9" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="ff79c6" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="50fa7b" />
+    <option name="FILESTATUS_changelistConflict" value="ff5555" />
+    <option name="FILESTATUS_modifiedOutside" value="40dbfc" />
     <option name="GUTTER_BACKGROUND" value="1c1e26" />
     <option name="INDENT_GUIDE" value="2e303e90" />
     <option name="INFORMATION_HINT" value="232530" />
@@ -64,7 +75,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="2e303e80" />
     <option name="SELECTED_INDENT_GUIDE" value="d5d8da2a" />
     <option name="SELECTED_TEARLINE_COLOR" value="363a49" />
-    <option name="SELECTION_BACKGROUND" value="2f3341" />
+    <option name="SELECTION_BACKGROUND" value="103d2e" />
     <option name="SEPARATOR_ABOVE_COLOR" value="232530" />
     <option name="SEPARATOR_BELOW_COLOR" value="232530" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="6c6f931a" />
@@ -713,7 +724,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ff5370" />
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="FONT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" value="ff5370" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -852,7 +864,6 @@
         <option name="FOREGROUND" value="8be9fd" />
       </value>
     </option>
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="Groovy parameter">
       <value>
         <option name="FOREGROUND" value="ffb86c" />
@@ -938,9 +949,9 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="9090b" />
+        <option name="BACKGROUND" value="16523e" />
+        <option name="EFFECT_COLOR" value="cec5c5" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="IGNORE.BRACKET">
@@ -1067,8 +1078,6 @@
         <option name="FOREGROUND" value="f3c1ff" />
       </value>
     </option>
-    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="ff9668" />
@@ -1223,9 +1232,7 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="7fdaff" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2600,7 +2607,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="6c6f93" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -2809,7 +2817,6 @@
         <option name="FOREGROUND" value="8be9fd" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="70b0ff" />
@@ -3307,7 +3314,9 @@
       </value>
     </option>
     <option name="ReSharper.OUTLINED_ENTITY">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="ff6200" />
+      </value>
     </option>
     <option name="ReSharper.ReSharper.Cg_PREPROCESSOR_LINE_CONTENT">
       <value>
@@ -3348,7 +3357,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="444a73" />
+        <option name="BACKGROUND" value="1e7054" />
+        <option name="EFFECT_COLOR" value="cec5c5" />
       </value>
     </option>
     <option name="SLIM_CLASS">
@@ -3474,8 +3484,6 @@
         <option name="FOREGROUND" value="8be9fd" />
       </value>
     </option>
-    <option name="Scala Immutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Scala Mutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Scala Predefined types">
       <value>
         <option name="FOREGROUND" value="b4c2f0" />
@@ -3506,12 +3514,13 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="444a73" />
+        <option name="BACKGROUND" value="1e7054" />
+        <option name="EFFECT_COLOR" value="cec5c5" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b4f9f8" />
+        <option name="FOREGROUND" value="ff6200" />
         <option name="BACKGROUND" value="444a73" />
         <option name="FONT_TYPE" value="2" />
       </value>
@@ -3586,12 +3595,14 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3c8390" />
+        <option name="BACKGROUND" value="16523e" />
+        <option name="EFFECT_COLOR" value="cec5c5" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="314365" />
+        <option name="BACKGROUND" value="2b8a66" />
+        <option name="EFFECT_COLOR" value="cec5c5" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
@@ -3662,10 +3673,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="org.rust.LIFETIME" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.MUT_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.UNSAFE_CODE">
       <value />
     </option>
