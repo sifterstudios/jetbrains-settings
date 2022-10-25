@@ -2,8 +2,8 @@
   <component name="LessonStateBase">
     <option name="map">
       <map>
-        <entry key="actions" value="NOT_PASSED" />
-        <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="actions" value="PASSED" />
+        <entry key="basic completion" value="PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
         <entry key="codeassistance.localhistory" value="NOT_PASSED" />
