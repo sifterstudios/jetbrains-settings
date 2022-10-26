@@ -4,13 +4,13 @@
     <property name="created">2022-10-02T19:58:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-10-08T12:30:27</property>
+    <property name="modified">2022-10-25T13:44:06</property>
     <property name="originalScheme">nightfall</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
+    <option name="EDITOR_FONT_NAME" value="Victor Mono" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Regular" />
@@ -1223,9 +1223,7 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="7fdaff" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2600,7 +2598,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="6c6f93" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
