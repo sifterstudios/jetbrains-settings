@@ -4,17 +4,17 @@
     <property name="created">2022-10-02T20:06:28</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2022-11-02T20:30:30</property>
+    <property name="modified">2022-10-02T20:08:02</property>
     <property name="originalScheme">sifter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Dank Mono" />
-    <option name="EDITOR_FONT_SIZE" value="28" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Regular" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -3489,8 +3489,8 @@
         <option name="FOREGROUND" value="b4c2f0" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="" />
-    <option name="Scala Type parameter" baseAttributes="" />
+    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>

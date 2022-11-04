@@ -1,5 +1,7 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings" profile="Sifter Default" />
   <component name="EditorSettings">
+    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="TodoConfiguration">
