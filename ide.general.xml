@@ -10,7 +10,7 @@
     <entry key="run.processes.with.pty" value="false" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="editor.focus.mode.color.light" value="abb2bf" />
-    <entry key="editor.focus.mode.color.dark" value="abb2bf" />
+    <entry key="editor.focus.mode.color.light" value="8c8c8c" />
+    <entry key="editor.focus.mode.color.dark" value="8c8c8c" />
   </component>
 </application>
