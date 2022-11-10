@@ -14,9 +14,13 @@
           <option name="url" value="https://github.com/sifterstudios/blackjack.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Tomaz2077/zombies" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\sifter\dev\java" />
+    <option name="cloneParentDir" value="C:\Users\sifter\dev\java\tomaz" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
