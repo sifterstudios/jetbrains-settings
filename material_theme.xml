@@ -4,7 +4,8 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="indicatorStyle" value="None" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="8386b2" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-3fdb585c:1839969ba65:-7ffc" />
     <option name="version" value="7.14.2" />
     <option name="tabHighlightPosition" value="Bottom" />
