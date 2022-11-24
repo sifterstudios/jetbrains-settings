@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/amigoscode/java-streams" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AWAcademyNO/JavaFall22BookStoreService.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\dev\java" />
+    <option name="cloneParentDir" value="$APPLICATION_HOME_DIR$/bin/~\dev\java" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
