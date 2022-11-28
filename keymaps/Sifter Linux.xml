@@ -19,6 +19,10 @@
   <action id="EditBookmark">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -28,6 +32,7 @@
   <action id="GitRenameBranchAction">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="GotoClass" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="shift ctrl alt end" />
   </action>
