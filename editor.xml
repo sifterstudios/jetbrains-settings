@@ -1,6 +1,7 @@
 <application>
   <component name="DaemonCodeAnalyzerSettings" profile="Sifter Default" />
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>

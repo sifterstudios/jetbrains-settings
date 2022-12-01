@@ -4,7 +4,7 @@
     <property name="created">2022-10-02T19:58:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.2.0.0</property>
-    <property name="modified">2022-11-22T19:25:46</property>
+    <property name="modified">2022-11-30T13:26:15</property>
     <property name="originalScheme">nightfall</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -388,6 +388,7 @@
       <value>
         <option name="FOREGROUND" value="7fdbca" />
         <option name="EFFECT_COLOR" value="7fdbca" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
